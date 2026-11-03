@@ -1,0 +1,2 @@
+# group_name  | extra_args
+adcranet-cifar100-mlcsd-lr-ls | --use-distillation --use-se noresidual --invert-attention --use-mixup

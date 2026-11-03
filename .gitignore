@@ -1,0 +1,23 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+.venv
+env/
+image-net/classes/*
+lightning_logs/
+logs/
+external/RANet-modified/logs/
+
+data
+data/cifar-100-python
+data/cifar-10-batches-py
+data/cifar-100-python.tar.gz
+
+external/RANet-modified/*.out
+
+external/RANet-modified/*.sh
